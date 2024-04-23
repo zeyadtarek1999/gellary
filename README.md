@@ -1,16 +1,13 @@
-# gellary
+The project utilized GetX for state management and integrated Shared Preferences to persist user data locally. Additionally, it seamlessly integrated with an external API to fetch 
 
-A new Flutter project.
+State Management with GetX:
 
-## Getting Started
+GetX, a lightweight Flutter package, was employed for efficient state management throughout the application. Its simplicity and powerful features allowed for seamless navigation, dependency injection, and state management, enhancing the overall development experience.
 
-This project is a starting point for a Flutter application.
+Persistence with Shared Preferences:
 
-A few resources to get you started if this is your first Flutter project:
+Shared Preferences, a key-value pair storage system provided by Flutter, was utilized to persist user data locally. This allowed for the retention of essential information across app sessions, providing a smoother user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+API Integration:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application seamlessly integrated with an external API to fetch and update data in real-time. This integration facilitated dynamic content delivery and ensured that users received the latest information without manual intervention.

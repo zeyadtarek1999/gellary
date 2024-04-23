@@ -49,7 +49,7 @@ class HomeScreenController extends GetxController {
                         Text(
                           'Gellary',
                           style: TextStyle(
-                            fontSize: 20,
+                            fontSize: 16,
                             fontFamily: 'Segoe UI',
                             fontWeight: FontWeight.bold,
                             color: Colors.black,
