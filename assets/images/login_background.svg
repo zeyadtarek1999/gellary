@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-log_in">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="log_in" data-name="log in" clip-path="url(#clip-log_in)">
+    <rect width="428" height="926" fill="#fff"/>
+    <ellipse id="Ellipse_1628" data-name="Ellipse 1628" cx="234.063" cy="296.844" rx="234.063" ry="296.844" transform="translate(-208.86 66.752)" fill="#ea94d7"/>
+    <ellipse id="Ellipse_1629" data-name="Ellipse 1629" cx="269.333" cy="341.574" rx="269.333" ry="341.574" transform="translate(-50.203 293.852)" fill="#ffdada"/>
+    <ellipse id="Ellipse_1627" data-name="Ellipse 1627" cx="269.333" cy="341.574" rx="269.333" ry="341.574" transform="translate(79.333 -77)" fill="#ddcdff"/>
+    <rect id="Rectangle_34624640" data-name="Rectangle 34624640" width="428" height="414" transform="translate(-1 512)" fill="url(#linear-gradient)"/>
+    <rect id="Image" width="156.213" height="156.213" rx="8" transform="translate(61.164 337) rotate(21.465)" fill="none"/>
+    <rect id="Video" width="194" height="194" rx="8" transform="matrix(0.956, 0.292, -0.292, 0.956, 159.627, 586)" fill="none"/>
+  </g>
+</svg>
